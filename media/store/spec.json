@@ -1,0 +1,32 @@
+{
+  "name": "Hi-Fi",
+  "slug": "Hi-Fi",
+  "prefix": "HIFI_",
+  "frames": [
+    "hifi-amber.png",
+    "hifi-mint.png",
+    "hifi-ice.png",
+    "hifi-silver.png",
+    "hifi-paper.png"
+  ],
+  "labels": [
+    "Amber",
+    "Mint",
+    "Ice",
+    "Silver",
+    "Paper"
+  ],
+  "stills": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "icon_crop": [
+    10,
+    32,
+    190,
+    114
+  ],
+  "description": "A vintage stereo display that tells the time.\n\nHi-Fi combines a large seven-segment clock with two useful progress meters, a date, and a battery gauge.\n\nMake it yours:\n- Five palettes: Amber, Mint, Ice, Silver, and Paper.\n- Custom background, digit, and accent colors.\n- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.\n- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.\n- SEC meter tracks progress through the minute; MIN meter tracks progress through the hour.\n- Turn seconds off for minute-only updates.\n- Live battery gauge and percentage.\n\nThe animated preview cycles through the five palettes at a fixed sample time. Select your preferred colors in settings.\n\nFor Pebble Time 2."
+}

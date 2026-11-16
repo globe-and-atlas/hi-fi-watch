@@ -1,0 +1,27 @@
+{
+  "repo": "hi-fi-watch",
+  "name": "Hi-Fi",
+  "version": "0.1.1",
+  "uuid": "3c5eddff-081a-4de8-b4c6-c4b2a9c22ef4",
+  "artifact": "/Users/danielbally/Git/hi-fi-watch/dist/Hi-Fi-0.1.1.pbw",
+  "sha256": "86eb4dd9371b31dbe08f38f2f3d0ed3fd46ddfd5fd327317f05df73b733a8107",
+  "platform_binary_sha256": {
+    "emery": "8ef9c98e6913c401a9919d2e3bb8ce3d2e0281fe52e5fb0366b27e603121c03d",
+    "chalk": "ce574c7bb5c1c0b193f874e86aed1e61d09967ec8cfabd69d756889e99b63f4c",
+    "gabbro": "733e6e3cb5e4a4fbbabe68c8d0a94ec4ab8403cc8f02ee821af0d04ed2e1cb86"
+  },
+  "app_id": "67e59e9db94d4a2f8a981e22",
+  "screenshots": [
+    "/Users/danielbally/Git/hi-fi-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/hi-fi-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/hi-fi-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/hi-fi-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "b97e49e961f0fe8b08064c11f28d44e901a3e98837a24aa4a401db0843c76d0d",
+    "chalk_02_round.png": "ba12f7f48116cc43a11c32187186c46ca78f91631e97d72ee57d4fbdef4c994e",
+    "gabbro_01_round.png": "dbca1fcd3073598244533e4a1d92c041b90830c24fb489a1f28d41e760dfa0bf",
+    "gabbro_02_round.png": "bc4e1d7e95fcca2c454c1c19aa327e926bf56b03343baf127c03cb457286a8fe"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}

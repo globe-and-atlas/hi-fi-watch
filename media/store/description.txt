@@ -1,0 +1,16 @@
+A vintage stereo display that tells the time.
+
+Hi-Fi combines a large seven-segment clock with two useful progress meters, a date, and a battery gauge.
+
+Make it yours:
+- Five palettes: Amber, Mint, Ice, Silver, and Paper.
+- Custom background, digit, and accent colors.
+- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.
+- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+- SEC meter tracks progress through the minute; MIN meter tracks progress through the hour.
+- Turn seconds off for minute-only updates.
+- Live battery gauge and percentage.
+
+The animated preview cycles through the five palettes at a fixed sample time. Select your preferred colors in settings.
+
+For Pebble Time 2.

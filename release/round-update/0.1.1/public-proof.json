@@ -1,0 +1,25 @@
+{
+  "name": "Hi-Fi",
+  "repo": "hi-fi-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/67e59e9db94d4a2f8a981e22",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/chalk/2dd3697b-405a-44e5-b1f4-cebc1d6d69cf.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/chalk/053629c6-2592-4ef9-99fa-d9a7e4b2cb07.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/gabbro/aeaf418d-00a7-4816-ab69-c66f2b7b677c.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/gabbro/58937560-190c-4553-8cbe-18278d0c97d0.png"
+  ],
+  "existing_gallery_preserved": true,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/emery/bc1bc032-ad6f-46ca-918c-f5db46c8577a.gif",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/emery/564e3d1f-8b47-42ee-bbcf-0fd3327c8f40.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/emery/d2b3bac2-a12a-452d-966c-54e3bdfbb8aa.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/emery/eb93435c-7a47-4c98-8061-51f5ad9459d9.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/emery/3c8136ee-72ed-4450-8da9-41720dd37143.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/chalk/2dd3697b-405a-44e5-b1f4-cebc1d6d69cf.png",
+    "https://assets.repebble.com/screenshots/67e59e9db94d4a2f8a981e22/gabbro/aeaf418d-00a7-4816-ab69-c66f2b7b677c.png"
+  ]
+}

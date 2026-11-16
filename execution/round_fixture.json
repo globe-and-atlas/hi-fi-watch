@@ -1,0 +1,10 @@
+{
+  "prefix": "HIFI",
+  "flags": {
+    "HIFI_FIXTURE": "1",
+    "HIFI_HOUR": "10",
+    "HIFI_MINUTE": "8",
+    "HIFI_SECOND": "30",
+    "HIFI_BATTERY": "82"
+  }
+}

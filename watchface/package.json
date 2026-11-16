@@ -1,0 +1,42 @@
+{
+  "name": "hi-fi-watch",
+  "version": "0.2.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Hi-Fi",
+    "uuid": "3c5eddff-081a-4de8-b4c6-c4b2a9c22ef4",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "TimeFormat",
+      "DateFormat",
+      "ShowSeconds",
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "NeedleDials"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

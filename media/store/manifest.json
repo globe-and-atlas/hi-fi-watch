@@ -1,0 +1,36 @@
+{
+  "name": "Hi-Fi",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "hifi-amber.png",
+    "hifi-mint.png",
+    "hifi-ice.png",
+    "hifi-silver.png",
+    "hifi-paper.png"
+  ],
+  "palette_names": [
+    "Amber",
+    "Mint",
+    "Ice",
+    "Silver",
+    "Paper"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "b075c58bb3b4a5cabf830c058802917f94e45561febd4da455f61c81c4f2f463"
+}

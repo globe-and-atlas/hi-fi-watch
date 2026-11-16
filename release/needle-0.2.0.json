@@ -1,0 +1,113 @@
+{
+  "version": "0.2.0",
+  "uuid": "3c5eddff-081a-4de8-b4c6-c4b2a9c22ef4",
+  "artifact": "/Users/danielbally/Git/hi-fi-watch/dist/Hi-Fi-0.2.0.pbw",
+  "sha256": "bb284e9da088001cd65755f592723edf21bd4a1dced9eb929f7078a02e6144ce",
+  "platforms": [
+    "emery",
+    "chalk",
+    "gabbro"
+  ],
+  "setting": "NeedleDials",
+  "message_key": 10007,
+  "persist_key": 8,
+  "missing_setting_defaults": {
+    "emery": 0,
+    "chalk": 1,
+    "gabbro": 1
+  },
+  "native_checks": {
+    "emery": {
+      "platform": "emery",
+      "cases": [
+        "bars",
+        "needles",
+        "needle-zero",
+        "needle-middle",
+        "needle-full",
+        "needle-seconds-off",
+        "bar-seconds-off",
+        "needle-iso",
+        "needle-mint",
+        "needle-ice",
+        "needle-paper",
+        "needle-custom"
+      ],
+      "toggle_changes_meters": true,
+      "sec_motion_isolated": true,
+      "seconds_off_static": true,
+      "needle_toggle_persists": true
+    },
+    "chalk": {
+      "platform": "chalk",
+      "cases": [
+        "bars",
+        "needles",
+        "needle-zero",
+        "needle-middle",
+        "needle-full",
+        "needle-seconds-off",
+        "bar-seconds-off",
+        "needle-iso",
+        "needle-mint",
+        "needle-ice",
+        "needle-paper",
+        "needle-custom"
+      ],
+      "toggle_changes_meters": true,
+      "sec_motion_isolated": true,
+      "seconds_off_static": true,
+      "needle_toggle_persists": true
+    },
+    "gabbro": {
+      "platform": "gabbro",
+      "cases": [
+        "bars",
+        "needles",
+        "needle-zero",
+        "needle-middle",
+        "needle-full",
+        "needle-seconds-off",
+        "bar-seconds-off",
+        "needle-iso",
+        "needle-mint",
+        "needle-ice",
+        "needle-paper",
+        "needle-custom"
+      ],
+      "toggle_changes_meters": true,
+      "sec_motion_isolated": true,
+      "seconds_off_static": true,
+      "needle_toggle_persists": true
+    }
+  },
+  "legacy_appearance": [
+    {
+      "platform": "emery",
+      "original_appearance_exact": true,
+      "source": "media/hifi-amber.png",
+      "capture": "bars.png"
+    },
+    {
+      "platform": "chalk",
+      "original_appearance_exact": true,
+      "source": "media/round/chalk-default.png",
+      "capture": "persisted-needles.png"
+    },
+    {
+      "platform": "gabbro",
+      "original_appearance_exact": true,
+      "source": "media/round/gabbro-default.png",
+      "capture": "persisted-needles.png"
+    }
+  ],
+  "host_pytest": 6,
+  "clay_lifecycle": "PASS",
+  "fresh_companion_defaults": "PASS",
+  "production_fixture_free": true,
+  "independent_review": "PASS",
+  "published": false,
+  "physical_watch_tested": false,
+  "at": "2026-11-07T16:43:38-06:00",
+  "independent_report": "release/needle-independent-review.json"
+}
